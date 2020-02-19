@@ -30,6 +30,7 @@ Here's what you've been waiting for!
 |[Open Service Broker for Azure](https://github.com/Azure/open-service-broker-azure) | Provision Microsoft Azure services like CosmosDB, Event Hubs, SQL Database, Storage, and more. |
 |[AWS Service Broker](https://github.com/awslabs/aws-servicebroker-documentation/wiki) | The AWS Service Broker is an open source project that allows the management of native AWS services through the Open Service Broker API.  |
 |[AppsCode Service Broker](https://github.com/appscode/service-broker) | Run AppsCode cloud services on Kubernetes via the Open Service Broker API. |
+|[MongoDB Atlas Open Service Broker](https://github.com/mongodb/mongodb-atlas-service-broker) | Provision and access MongoDB Atlas clusters. |
 
 # Your Broker Here
 
